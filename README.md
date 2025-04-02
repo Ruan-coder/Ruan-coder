@@ -19,6 +19,6 @@
 
 <h3> Contatos: </h3>
   <a href="mailto:ruancostak1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
-  <a href="https://www.linkedin.com/in/carolina-dornas/](https://www.linkedin.com/in/ruan-costa-arag%C3%A3o-972b63356/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ruan-costa-arag%C3%A3o-972b63356/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>
   <br>
   <br>
