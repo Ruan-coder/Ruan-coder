@@ -4,7 +4,7 @@
 
 <ul>
   <li>🧀 Belo Horizonte - MG</li>
-  <li>📚 Graduanda em Análise e Desenvolvimento de Sistemas</li>
+  <li>📚 Graduado em Análise e Desenvolvimento de Sistemas</li>
   <li>💻 Sempre aprimorando meus conhecimentos em Javascript, React, Python e ciência de dadis</li>
 </ul>
 
